@@ -41,3 +41,15 @@ Komari 社区成员们积极贡献并共同维护着一系列 Agent 项目。这
 `ikuai-komari-agent` 是一个使用 Python 编写的 Komari 监控代理，专门用于实时监控 **iKuai 路由器**并上报数据到 Komari 服务器
 
 支持通过 Docker 容器化部署，提供高效的路由器性能监控和数据收集功能
+
+## komari-agent-win7_win8_legacy
+
+> 项目地址：[Github](https://github.com/xykt/komari-agent-win7_win8_legacy)
+> 
+> 开发者：[xykt](https://github.com/xykt)
+
+`komari-agent-win7_win8_legacy` 是一个为 **旧版本Windows（Windows XP、Windows 7、Windows 8、Windows Server 2008Windows Server 2012）** 系统专门定制的 Komari 监控代理
+
+由于这些操作系统已停止支持原版 Agent，该项目致力于为旧版 Windows 系统提供完整的监控功能支持，使用户能够继续使用 Komari 监控服务
+
+支持 x86 和 x64 两种架构，提供稳定可靠的性能监控和数据收集功能
