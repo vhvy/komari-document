@@ -38,6 +38,6 @@ Komari 社区成员们积极贡献并共同维护着一系列 Agent 项目。这
 > 
 > 开发者：[ZeroTwoDa](https://github.com/ZeroTwoDa)
 
-`ikuai-komari-agent` 是一个使用 Python 编写的 Komari 监控代理，专门用于实时监控 iKuai 路由器并上报数据到 Komari 服务器
+`ikuai-komari-agent` 是一个使用 Python 编写的 Komari 监控代理，专门用于实时监控 **iKuai 路由器**并上报数据到 Komari 服务器
 
 支持通过 Docker 容器化部署，提供高效的路由器性能监控和数据收集功能
